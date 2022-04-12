@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdul535" alt="Abdul535" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zubairself" target="blank"><img src="https://img.shields.io/twitter/follow/zubairself?logo=twitter&style=for-the-badge" alt="zubairself" /></a> </p>
+<p align="left"> <a href="https://twitter.com/047_Abdul" target="blank"><img src="https://img.shields.io/twitter/follow/047_Abdul?logo=twitter&style=for-the-badge" alt="047_Abdul" /></a> </p>
 
 
 - 🌱 I’m currently learning **React, Solidity, Rust, Kubernetes**
